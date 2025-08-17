@@ -1,2 +1,2 @@
-# HackerRank_Solutions - C#
-HackerRank_Solutions - C#
+# HackerRank_Solutions
+HackerRank_Solutions
