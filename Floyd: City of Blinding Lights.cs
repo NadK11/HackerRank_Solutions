@@ -15,7 +15,7 @@ using System;
 public class Solution
 {
     public static int[,] adjMatrix;
-
+    
     public static void Main(string[] args)
     {
         var input = Console.In;
