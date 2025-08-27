@@ -14,7 +14,7 @@ using System;
 
 class Result
 {
-
+    
     /*
      * Complete the 'circularArrayRotation' function below.
      *
